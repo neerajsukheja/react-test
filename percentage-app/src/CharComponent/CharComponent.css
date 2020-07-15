@@ -1,0 +1,9 @@
+.CharComponent{
+    width: 40px;
+    margin: 20px;
+    border: 1px solid;
+    padding: 20px;
+    box-shadow: 5px 5px 2px #A0A0A0;
+    cursor: pointer;
+    display: inline-block;
+}

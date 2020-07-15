@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.assignment{
+  border: 1px solid;
+  padding: 2%;
+  width: 50%;
+  margin: 2% auto;
+  box-shadow: 9px 9px 9px 4px #A0A0A0;
+}
